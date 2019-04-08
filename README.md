@@ -37,7 +37,7 @@ default height: 400px
 ```
 <custom-element-demo>
   <template>
-    <script src="./components/zoom-image.js"></script>
+    <script src="./index.js"></script>
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
