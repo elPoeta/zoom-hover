@@ -1,4 +1,4 @@
-class ZoomImage extends HTMLElement {
+class ZoomHover extends HTMLElement {
   constructor() {
     super();
     this.root = this.attachShadow({ mode: "open" });
@@ -66,6 +66,6 @@ class ZoomImage extends HTMLElement {
   }
 }
 
-customElements.define("zoom-image", ZoomImage);
+customElements.define("zoom-hover", ZoomHover);
 
-module.exports = ZoomImage;
+module.exports = ZoomHover;
