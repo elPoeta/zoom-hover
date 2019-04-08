@@ -1,0 +1,25 @@
+{
+  "name": "zoom-hover",
+  "version": "1.0.0",
+  "description": "Zoom image hover web component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elPoeta/zoom-hover.git"
+  },
+  "keywords": [
+    "zoom",
+    "image",
+    "component",
+    "hover"
+  ],
+  "author": "Leonardo Tosetto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elPoeta/zoom-hover/issues"
+  },
+  "homepage": "https://github.com/elPoeta/zoom-hover#readme"
+}
